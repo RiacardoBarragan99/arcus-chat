@@ -1,0 +1,11 @@
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-network/CMakeFiles/arcus-chat-network.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-network/CMakeFiles/edit_cache.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-network/CMakeFiles/rebuild_cache.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-client/CMakeFiles/arcus-chat-client.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-client/CMakeFiles/edit_cache.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-client/CMakeFiles/rebuild_cache.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-server/CMakeFiles/arcus-chat-server.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-server/CMakeFiles/edit_cache.dir
+C:/Users/Architect/source/repos/arcus-chat/out/build/x64-Debug/arcus-chat-server/CMakeFiles/rebuild_cache.dir

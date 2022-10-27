@@ -1,0 +1,5 @@
+project(arcus-chat)
+cmake_minimum_required(VERSION 3.19)
+add_subdirectory(arcus-chat-network)
+add_subdirectory(arcus-chat-client)
+add_subdirectory(arcus-chat-server)
